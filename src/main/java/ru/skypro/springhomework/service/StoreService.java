@@ -7,3 +7,6 @@ public interface StoreService {
     Set<Integer>add(List<Integer>ids);
     Set<Integer>get();
 }
+
+
+
